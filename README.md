@@ -1,2 +1,0 @@
-# mypracticerepo
-For practice purpose
